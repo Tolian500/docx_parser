@@ -6,6 +6,16 @@ __pycache__/
 # C extensions
 *.so
 
+.idea/
+*.docx
+*.doc
+*.xml
+*.html
+xml version='1.0' encoding='UTF-8'.txt
+
+
+
+
 # Distribution / packaging
 .Python
 build/
